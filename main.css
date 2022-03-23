@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', 'sans-serif';
+}
+
+div.hero {
+  background-image: url(img/header.png);
+  height: 100vh;
+  background-position: center center;
+  background-size: cover;
+}
+
+div.header-content {
+  padding-top: 2rem;
+}
+
+nav.social-media {
+  text-align: center;
+}
+
+nav.social-media a {
+  color: white;
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+
+.footer {
+  text-align: center;
+}
